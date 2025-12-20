@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Skyfall",
+  "base_artist": "Adele",
+  "createdAt": "2025-12-20T07:30:22.799837Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Skyfall",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/01_Skyfall_Adele.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Skyfall",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/02_Skyfall_Adele.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Skyfall",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/03_Skyfall_Adele.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Skyfall (Instrumental)",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/04_Skyfall_(Instrumental)_Adele.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Skyfall (Full Length)",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/05_Skyfall_(Full_Length)_Adele.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Skyfall",
+      "artist": "SION",
+      "has_synced": true,
+      "path": "select/06_Skyfall_SION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Skyfall",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/07_Skyfall_Adele.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Skyfall",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/08_Skyfall_Adele.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Skyfall",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/09_Skyfall_Adele.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Skyfall (2012)",
+      "artist": "Adele",
+      "has_synced": false,
+      "path": "select/10_Skyfall_(2012)_Adele.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Skyfall (instrumental)",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/11_Skyfall_(instrumental)_Adele.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Skyfall",
+      "artist": "Our Last Night",
+      "has_synced": true,
+      "path": "select/12_Skyfall_Our_Last_Night.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Skyfall",
+      "artist": "Letters from the Fire",
+      "has_synced": false,
+      "path": "select/13_Skyfall_Letters_from_the_Fire.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Skyfall",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/14_Skyfall_Adele.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Skyfall",
+      "artist": "ADELE",
+      "has_synced": false,
+      "path": "select/pl_01_Skyfall_ADELE.txt"
+    }
+  ]
+}
